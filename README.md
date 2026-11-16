@@ -1,9 +1,11 @@
+
 <p align="center">
   <img src="app-icon.svg" width="88" height="88" alt="HGhub 图标" />
 </p>
 
 <h1 align="center">HGhub</h1>
-
+<h1 align="center">转载来自：HGhub 源库，请点击小星星
+<br>（FROK不点小星星的人=看黄果也打不出来-哈哈）</h1>
 <p align="center">一个通过插件连接内容的通用视频播放器。</p>
 
 <p align="center">
